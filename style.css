@@ -10,11 +10,13 @@ body{
 h1{
   margin: 0;
   font-weight: normal;
+  font-size: 32px;
 }
 
 h2{
   margin: 0;
   font-weight: normal;
+  font-size: 28px;
 }
 
 h3{
@@ -36,7 +38,7 @@ img{
 }
 
 ul{
-  margin: 8px 0 0;
+  margin: 16px 0 0;
   padding-inline-start: 24px;
 }
 
@@ -46,7 +48,7 @@ header{
   margin: 0 auto;
   max-width: 1120px;
   text-align: center;
-  padding: 64px 0 32px;
+  padding: 64px 0;
   background-image: url(img/border.png);
   background-repeat: repeat-x;
   background-position: top;
@@ -56,7 +58,7 @@ header{
 /* main */
 
 main{
-  padding: 64px 16px 80px;
+  padding: 32px 16px 80px;
   margin: 0 auto;
   max-width: 1120px;
   background-image: url(img/border.png);
@@ -86,7 +88,7 @@ main h2{
 
 section h2{
   color: #01a7d9;
-  border-bottom: 2px solid #ccc;
+  border-bottom: 3px solid #ccc;
 }
 
 section{
