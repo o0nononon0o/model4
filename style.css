@@ -107,7 +107,9 @@ section{
 }
 
 .wrapper img{
-  margin-top: 16px;
+  margin-top: 8px;
+  width: 100px;
+  height: 100px;
 }
 
 .wrapper-img img{
@@ -142,6 +144,12 @@ section{
 
 .wrapper{
   flex: 5;
+}
+
+.wrapper img{
+  margin-top: 16px;
+  width: 120px;
+  height: 120px;
 }
 
 .wrapper-img{
